@@ -1,15 +1,15 @@
 # 📌 Telecom Customer Churn Analysis
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 Business Problem:
 Telecom companies face significant revenue loss due to customer churn. The objective of this project is to analyze churn patterns, understand key factors influencing churn, and provide actionable insights using MySQL for data analysis and Power BI for interactive dashboards.
 
-🎯 Objectives
+## 🎯 Objectives
 
 ✅ Identify high-risk churn customers based on service usage and demographic data.✅ Analyze the impact of contract types, payment methods, and tenure on churn.✅ Use Customer Lifetime Value (CLV) analysis to retain valuable customers.✅ Provide data-driven business recommendations to reduce churn and improve retention strategies.
 
-📊 Dataset Information
+## 📊 Dataset Information
 
 The dataset contains customer details, contract information, and service usage data.
 
@@ -25,7 +25,7 @@ MonthlyCharges, TotalCharges – Billing information.
 
 Churn – Indicates whether the customer has left (Yes/No).
 
-🛠 Tools Used
+## 🛠 Tools Used
 
 MySQL – Querying and data extraction.
 
@@ -54,7 +54,7 @@ Power BI – Data visualization and dashboard creation.
 The Power BI dashboard includes:
 ✅ Churn Rate KPI – Quick churn metric overview.✅ Churn by Contract Type – Identifies which contract leads to higher churn.✅ Payment Method Impact on Churn – Determines preferred & risky payment methods.✅ CLV Analysis – Highlights high-value customers for retention strategies.
 
-🔥 Business Recommendations
+## 🔥 Business Recommendations
 
 🚀 Offer discounts & incentives for long-term contracts to reduce churn.🚀 Promote auto-payment methods to retain more customers.🚀 Focus retention efforts on high-CLV customers by providing personalized offers.🚀 Enhance customer experience for Fiber Optic users, as they contribute high revenue.
 
