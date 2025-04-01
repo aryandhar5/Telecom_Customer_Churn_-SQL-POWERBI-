@@ -33,14 +33,14 @@ Power BI – Data visualization and dashboard creation.
 
 ### 🔍 Business Problem & Analysis Insights
 
-1️⃣ Churn Rate Analysis
+#### 1️⃣ Churn Rate Analysis
 
 📌 Business Question: What percentage of customers are churning?
 📊 Power BI Visual: KPI card with churn rate percentage.
 
 📢 Insight: The company has a high churn rate, indicating customer dissatisfaction.
 
-2️⃣ Churn by Contract Type
+#### 2️⃣ Churn by Contract Type
 
 📌 Business Question: Which contract type has the highest churn rate?
 
@@ -48,15 +48,15 @@ Power BI – Data visualization and dashboard creation.
 
 📢 Insight: Month-to-month contracts have the highest churn rate due to lack of commitment incentives.
 
-3️⃣ Payment Method & Churn Impact
+#### 3️⃣ Payment Method & Churn Impact
 
 📌 Business Question: Which payment method has the highest churn?
 
-📊 Power BI Visual: Pie chart (Churn % by Payment Type).
+#### 📊 Power BI Visual: Pie chart (Churn % by Payment Type).
 
 📢 Insight: Customers paying via Electronic Check have the highest churn. Suggesting auto-payment can reduce churn.
 
-4️⃣ CLV Analysis & Retention Strategy
+#### 4️⃣ CLV Analysis & Retention Strategy
 
 📌 Business Question: How does Customer Lifetime Value (CLV) vary among customers?
 
@@ -64,9 +64,9 @@ Power BI – Data visualization and dashboard creation.
 
 📢 Insight: Retaining high-CLV customers with loyalty programs can maximize revenue.
 
-📌 Power BI Dashboard Overview
+## 📌 Power BI Dashboard Overview
 
-The Power BI dashboard includes:
+### The Power BI dashboard includes:
 
 ✅ Churn Rate KPI – Quick churn metric overview.
 
@@ -89,7 +89,9 @@ The Power BI dashboard includes:
 ## 📌 Future Enhancements
 
 🔹 Implement churn prediction using machine learning.
+
 🔹 Analyze churn by customer demographics and service usage.
+
 🔹 Conduct A/B testing on retention strategies.
 
 # 🏆 Conclusion
