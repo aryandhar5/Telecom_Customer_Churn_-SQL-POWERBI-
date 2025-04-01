@@ -52,7 +52,10 @@ Power BI – Data visualization and dashboard creation.
 📌 Power BI Dashboard Overview
 
 The Power BI dashboard includes:
-✅ Churn Rate KPI – Quick churn metric overview.✅ Churn by Contract Type – Identifies which contract leads to higher churn.✅ Payment Method Impact on Churn – Determines preferred & risky payment methods.✅ CLV Analysis – Highlights high-value customers for retention strategies.
+✅ Churn Rate KPI – Quick churn metric overview.
+✅ Churn by Contract Type – Identifies which contract leads to higher churn.
+✅ Payment Method Impact on Churn – Determines preferred & risky payment methods.
+✅ CLV Analysis – Highlights high-value customers for retention strategies.
 
 ## 🔥 Business Recommendations
 
