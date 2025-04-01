@@ -31,7 +31,7 @@ MySQL – Querying and data extraction.
 
 Power BI – Data visualization and dashboard creation.
 
-🔍 Business Problem & Analysis Insights
+### 🔍 Business Problem & Analysis Insights
 
 1️⃣ Churn Rate Analysis
 
