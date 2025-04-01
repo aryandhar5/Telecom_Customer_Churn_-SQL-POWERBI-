@@ -27,9 +27,9 @@ Churn – Indicates whether the customer has left (Yes/No).
 
 ## 🛠 Tools Used
 
-MySQL – Querying and data extraction.
+- MySQL – Querying and data extraction.
 
-Power BI – Data visualization and dashboard creation.
+- Power BI – Data visualization and dashboard creation.
 
 ### 🔍 Business Problem & Analysis Insights
 
