@@ -35,36 +35,63 @@ Power BI – Data visualization and dashboard creation.
 
 1️⃣ Churn Rate Analysis
 
-📌 Business Question: What percentage of customers are churning?📊 Power BI Visual: KPI card with churn rate percentage.📢 Insight: The company has a high churn rate, indicating customer dissatisfaction.
+📌 Business Question: What percentage of customers are churning?
+📊 Power BI Visual: KPI card with churn rate percentage.
+
+📢 Insight: The company has a high churn rate, indicating customer dissatisfaction.
 
 2️⃣ Churn by Contract Type
 
-📌 Business Question: Which contract type has the highest churn rate?📊 Power BI Visual: Bar chart (Churn % by Contract Type).📢 Insight: Month-to-month contracts have the highest churn rate due to lack of commitment incentives.
+📌 Business Question: Which contract type has the highest churn rate?
+
+📊 Power BI Visual: Bar chart (Churn % by Contract Type).
+
+📢 Insight: Month-to-month contracts have the highest churn rate due to lack of commitment incentives.
 
 3️⃣ Payment Method & Churn Impact
 
-📌 Business Question: Which payment method has the highest churn?📊 Power BI Visual: Pie chart (Churn % by Payment Type).📢 Insight: Customers paying via Electronic Check have the highest churn. Suggesting auto-payment can reduce churn.
+📌 Business Question: Which payment method has the highest churn?
+
+📊 Power BI Visual: Pie chart (Churn % by Payment Type).
+
+📢 Insight: Customers paying via Electronic Check have the highest churn. Suggesting auto-payment can reduce churn.
 
 4️⃣ CLV Analysis & Retention Strategy
 
-📌 Business Question: How does Customer Lifetime Value (CLV) vary among customers?📊 Power BI Visual: Table visual (Top 10 High CLV Customers).📢 Insight: Retaining high-CLV customers with loyalty programs can maximize revenue.
+📌 Business Question: How does Customer Lifetime Value (CLV) vary among customers?
+
+📊 Power BI Visual: Table visual (Top 10 High CLV Customers).
+
+📢 Insight: Retaining high-CLV customers with loyalty programs can maximize revenue.
 
 📌 Power BI Dashboard Overview
 
 The Power BI dashboard includes:
+
 ✅ Churn Rate KPI – Quick churn metric overview.
+
 ✅ Churn by Contract Type – Identifies which contract leads to higher churn.
+
 ✅ Payment Method Impact on Churn – Determines preferred & risky payment methods.
+
 ✅ CLV Analysis – Highlights high-value customers for retention strategies.
 
 ## 🔥 Business Recommendations
 
-🚀 Offer discounts & incentives for long-term contracts to reduce churn.🚀 Promote auto-payment methods to retain more customers.🚀 Focus retention efforts on high-CLV customers by providing personalized offers.🚀 Enhance customer experience for Fiber Optic users, as they contribute high revenue.
+🚀 Offer discounts & incentives for long-term contracts to reduce churn.
+
+🚀 Promote auto-payment methods to retain more customers.
+
+🚀Focus retention efforts on high-CLV customers by providing personalized offers.
+
+🚀 Enhance customer experience for Fiber Optic users, as they contribute high revenue.
 
 ## 📌 Future Enhancements
 
-🔹 Implement churn prediction using machine learning.🔹 Analyze churn by customer demographics and service usage.🔹 Conduct A/B testing on retention strategies.
+🔹 Implement churn prediction using machine learning.
+🔹 Analyze churn by customer demographics and service usage.
+🔹 Conduct A/B testing on retention strategies.
 
-🏆 Conclusion
+# 🏆 Conclusion
 
 This project provides actionable insights for reducing churn using SQL-based data analysis and Power BI dashboards. By implementing targeted retention strategies, the telecom provider can boost customer loyalty and revenue.
