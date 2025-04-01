@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-Business Problem:
+### Business Problem:
 Telecom companies face significant revenue loss due to customer churn. The objective of this project is to analyze churn patterns, understand key factors influencing churn, and provide actionable insights using MySQL for data analysis and Power BI for interactive dashboards.
 
 ## 🎯 Objectives
@@ -58,7 +58,7 @@ The Power BI dashboard includes:
 
 🚀 Offer discounts & incentives for long-term contracts to reduce churn.🚀 Promote auto-payment methods to retain more customers.🚀 Focus retention efforts on high-CLV customers by providing personalized offers.🚀 Enhance customer experience for Fiber Optic users, as they contribute high revenue.
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 
 🔹 Implement churn prediction using machine learning.🔹 Analyze churn by customer demographics and service usage.🔹 Conduct A/B testing on retention strategies.
 
