@@ -1,5 +1,13 @@
 # 📌 Telecom Customer Churn Analysis
 
+![Screenshot 2025-04-03 132146](https://github.com/user-attachments/assets/ba353f91-14ae-41c9-be20-a4c1ab9b87f0)
+
+
+
+![Screenshot 2025-04-03 132220](https://github.com/user-attachments/assets/68f75e9d-0fa3-4896-ae74-c30292b78754)
+
+
+
 ## 🚀 Project Overview
 
 ### Business Problem:
